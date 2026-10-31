@@ -1,0 +1,22 @@
+# Downloaded and generated data (re-created by the notebook)
+data/
+*.xlsx
+*.zip
+*.parquet
+*.pkl
+
+# Course brief (not ours to publish)
+Assignment 1 Data Profiling.pdf
+
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
